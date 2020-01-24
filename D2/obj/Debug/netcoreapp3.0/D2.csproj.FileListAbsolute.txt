@@ -1,0 +1,13 @@
+D:\Users\bsi50130\Desktop\D2\bin\Debug\netcoreapp3.0\D2.exe
+D:\Users\bsi50130\Desktop\D2\bin\Debug\netcoreapp3.0\D2.deps.json
+D:\Users\bsi50130\Desktop\D2\bin\Debug\netcoreapp3.0\D2.runtimeconfig.json
+D:\Users\bsi50130\Desktop\D2\bin\Debug\netcoreapp3.0\D2.runtimeconfig.dev.json
+D:\Users\bsi50130\Desktop\D2\bin\Debug\netcoreapp3.0\D2.dll
+D:\Users\bsi50130\Desktop\D2\bin\Debug\netcoreapp3.0\D2.pdb
+D:\Users\bsi50130\Desktop\D2\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Users\bsi50130\Desktop\D2\obj\Debug\netcoreapp3.0\D2.csprojAssemblyReference.cache
+D:\Users\bsi50130\Desktop\D2\obj\Debug\netcoreapp3.0\D2.AssemblyInfoInputs.cache
+D:\Users\bsi50130\Desktop\D2\obj\Debug\netcoreapp3.0\D2.AssemblyInfo.cs
+D:\Users\bsi50130\Desktop\D2\obj\Debug\netcoreapp3.0\D2.csproj.CopyComplete
+D:\Users\bsi50130\Desktop\D2\obj\Debug\netcoreapp3.0\D2.dll
+D:\Users\bsi50130\Desktop\D2\obj\Debug\netcoreapp3.0\D2.pdb
